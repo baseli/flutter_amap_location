@@ -8,6 +8,8 @@ dependencies:
   flutter:
     sdk: flutter
   simple_permissions:
+    git:
+      url: https://github.com/baseli/flutter_simple_permissions.git
   easy_alert:
 
 environment:
